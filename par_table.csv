@@ -1,0 +1,2 @@
+"N","init_prev","init_rec","init_vacc","odds_inf_not_vac","duration_school_year","R0","t_pre_sym","t_inf","t_sym_state","t_quarantine","t_iso","psym","gamma","psym.1","e_v","sigma_v","sym_red","intros_per_week","Sp","Se","w_v","w_u","f_v","f_u","is","is_sym","k"
+50000,0.004,0.33,0.2,1,105,6.5,2.3,7,4.7,7,2,0.6,0.333333333333333,0.6,1,0.4,0.4,1,0.995,0.9,0.9,0.9,0,0,0.925,0.25,0.5
